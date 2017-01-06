@@ -31,9 +31,6 @@ namespace _951017dey_1
                 return;
             }
 
-
-
-
             System.IO.DirectoryInfo oDirectoryInfo =
                 new System.IO.DirectoryInfo(path: txtPath.Text);
 
